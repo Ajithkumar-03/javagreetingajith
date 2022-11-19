@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JavaGreetingAjith</string>
+    <string name="Name">Dear Ajith Kumar</string>
+    <string name="Message">Good Morning</string>
+</resources>
